@@ -1,6 +1,6 @@
 # Personal_Info
 ADD PERSONAL INFORMATION
-NAME: SN1 Buhh PN
+NAME: SN1 Buhayyy PN
 BIRTHDAY: 13 Jan 
 EMAIL: jaebravo3@gmail.com
 NUMBER: 09561908708
